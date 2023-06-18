@@ -56,9 +56,7 @@ list_of_nums = eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
 ```
-
 ## Output:
-![Screenshot (141)](https://github.com/shalinikannan23/Sorting-Algorithm/assets/118656529/41558dbd-caa5-4598-886a-163cb9cd3914)
-![Screenshot (142)](https://github.com/shalinikannan23/Sorting-Algorithm/assets/118656529/39a51a5a-2fe1-4137-a2b0-ce86b0cfbcce)
+![image](https://github.com/shalinikannan23/Sorting-Algorithm/assets/118656529/9c9268aa-d3a9-4d74-8977-748fab71e8a1)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
